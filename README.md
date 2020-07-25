@@ -66,3 +66,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+This is a simple react redux app for a cakeshop. The boiler plate should help you easily get started with a react redux app
